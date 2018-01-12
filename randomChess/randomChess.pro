@@ -2,6 +2,8 @@
 #
 # Project created by QtCreator 2017-12-20T16:00:36
 #
+# Author: Erik Bowers
+#
 #-------------------------------------------------
 
 QT       += core gui
